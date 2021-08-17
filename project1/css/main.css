@@ -1,0 +1,18 @@
+.bg-light
+{
+    background-color: #3b536f !important;
+}
+
+.navbar-light .navbar-brand
+{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: white;
+}
+footer{
+    color:#ffffff;
+    background-color:#025296;
+    letter-spacing: 0.5px;
+}
